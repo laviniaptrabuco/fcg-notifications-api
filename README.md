@@ -1,3 +1,5 @@
+> **FIAP Cloud Games (FCG)**: este repositório faz parte do projeto, com um repositório por componente. Guia central e lista de repositórios: [fcg-orchestration](https://github.com/laviniaptrabuco/fcg-orchestration#reposit%C3%B3rios-do-projeto). Este repositório é a entrega da **Fase 2** (container). Na Fase 3 ele foi substituído pela Azure Function [fcg-notifications-serverless](https://github.com/laviniaptrabuco/fcg-notifications-serverless).
+
 # FCG Notifications API
 
 Microsserviço responsável por simular o envio de e-mails de notificação da FIAP Cloud Games.
